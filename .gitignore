@@ -1,6 +1,7 @@
 *.txt
 
 *.o
+*/*.o
 objs
 
 *.exe
